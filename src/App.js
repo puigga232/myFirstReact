@@ -16,7 +16,7 @@ export default function App() {
   };
   return (
     <div className="App">
-      <h1>Hello AbelP</h1>
+      <h1>Hello Abel</h1>
       <div>
         <input
           type="number"
